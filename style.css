@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+
+.container-navbar{
+    background-color: mediumslateblue;
+}
+
+.ul-navbaar{
+    background-color: aqua;
+}
+
+.li-navbar{
+    border: 1px solid gray;
+    list-style-type: none; ;
+}
